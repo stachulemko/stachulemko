@@ -1,7 +1,9 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29fbcce1-6272-43ad-9de8-7b71fb615cfa" />
+</p>
 
-![leopard-tank-tank](https://github.com/user-attachments/assets/29fbcce1-6272-43ad-9de8-7b71fb615cfa)
-lign="center">Hi 👋, I'm stachulemko</h1>
-<h3 align="center">A passionate developer from Poland</h3>
+
+<h3 align="center">>Hi 👋, I'm stachulemko A passionate developer from Poland</h3>
 - 🔭 I’m currently working on [metro_game](https://github.com/stachulemko/metro_game/tree/main/main_game)
 
 - 👯 I’m currently collaborate with [Zakrzewiaczek](https://github.com/Zakrzewiaczek)
