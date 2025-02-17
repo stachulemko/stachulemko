@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [metro_game](https://github.com/stachulemko/metro_game/tree/main/main_game)
 
-- 👯 I’m looking to collaborate on [Zakrzewiaczek](https://github.com/Zakrzewiaczek)
+- 👯 I’m currently collaborate with [Zakrzewiaczek](https://github.com/Zakrzewiaczek)
 
 - 📫 How to reach me **stachulemko@o2.pl**
 
