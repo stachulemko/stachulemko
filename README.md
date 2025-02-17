@@ -1,5 +1,6 @@
-![Uploading leopard-stabilization.gif…]()
-<h1 align="center">Hi 👋, I'm stachulemko</h1>
+
+<h1 a![leopard-tank-tank](https://github.com/user-attachments/assets/7d891aaf-d1c2-4521-adb1-00bd8369ce62)
+lign="center">Hi 👋, I'm stachulemko</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 - 🔭 I’m currently working on [metro_game](https://github.com/stachulemko/metro_game/tree/main/main_game)
 
